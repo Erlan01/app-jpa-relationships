@@ -45,6 +45,8 @@ public class StudentController {
     }
 
     //3. FACULTY DEKANAT
+    //jnsdjvndsnvsdvk
+    //asdjnvlsdnv
     //4. GROUP OWNER
 
 
